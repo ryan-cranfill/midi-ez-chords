@@ -13,7 +13,7 @@
     "midimessage": "^1.0.5",
     "mpe": "^1.0.4",
     "vue": "^2.6.10",
-    "vuetify": "^2.0.0",
+    "vuetify": "^2.6.10",
     "webmidi": "^2.3.3"
   },
   "devDependencies": {
